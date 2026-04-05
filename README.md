@@ -26,11 +26,13 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [When You Need a Permit](docs/permits.md) - Which HVAC jobs require permits in Florida
 - [The Permit Process](docs/permit-process.md) - Application, fees, timeline, and what inspectors check
 - [Common Inspection Failures](docs/inspection-failures.md) - Top reasons HVAC installs fail inspection
+- [County Permit Fees (South FL)](docs/county-permit-fees.md) - Fee schedules for Miami-Dade, Broward, and Palm Beach
 
-### Building Codes
+### Building Codes & Refrigerants
 
 - [Florida Building Code HVAC Requirements](docs/building-codes.md) - Mechanical code basics, SEER minimums, duct standards
 - [Energy Code Compliance](docs/energy-code.md) - Florida Energy Conservation Code, Manual J/S/D requirements
+- [Refrigerant Regulations](docs/refrigerant-regulations.md) - R-22 phaseout, R-410A transition, R-454B/R-32 future, EPA requirements
 
 ### Homeowner Reference
 
@@ -62,7 +64,7 @@ For professional AC repair, installation, and maintenance in Miami-Dade, Broward
 
 ## Disclaimer
 
-This guide is for informational purposes only and does not constitute legal advice. Regulations change - always verify current requirements with your local building department and the [Florida DBPR](https://www.myfloridalicense.com). Last updated: March 2026.
+This guide is for informational purposes only and does not constitute legal advice. Regulations change - always verify current requirements with your local building department and the [Florida DBPR](https://www.myfloridalicense.com). Last updated: April 2026.
 
 ## License
 
