@@ -34,6 +34,10 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Energy Code Compliance](docs/energy-code.md) - Florida Energy Conservation Code, Manual J/S/D requirements
 - [Refrigerant Regulations](docs/refrigerant-regulations.md) - R-22 phaseout, R-410A transition, R-454B/R-32 future, EPA requirements
 
+### Insurance & Warranties
+
+- [Insurance, Warranties, and Liability](docs/insurance-and-warranties.md) - Contractor insurance requirements, homeowner's coverage, manufacturer warranties, lien protection
+
 ### Homeowner Reference
 
 - [Homeowner Rights & Protections](docs/homeowner-rights.md) - Construction Lien Law, warranties, dispute resolution
