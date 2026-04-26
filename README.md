@@ -38,6 +38,11 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 
 - [Insurance, Warranties, and Liability](docs/insurance-and-warranties.md) - Contractor insurance requirements, homeowner's coverage, manufacturer warranties, lien protection
 
+### Incentives & Heat Pumps
+
+- [Federal Tax Credits & Rebates (2026)](docs/federal-tax-credits.md) - IRA credits (25C), HEEHRA rebates, utility stacking, and how to claim
+- [Heat Pump Regulations for Florida](docs/heat-pump-regulations.md) - Efficiency requirements, refrigerant transition, permits, and the AC vs heat pump decision
+
 ### Homeowner Reference
 
 - [Homeowner Rights & Protections](docs/homeowner-rights.md) - Construction Lien Law, warranties, dispute resolution
