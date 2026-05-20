@@ -48,6 +48,11 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Homeowner Rights & Protections](docs/homeowner-rights.md) - Construction Lien Law, warranties, dispute resolution
 - [Questions to Ask Before Hiring](docs/hiring-checklist.md) - Red flags and verification steps
 
+### Hurricane Season & Community Rules
+
+- [Hurricane Prep and Windstorm Code](docs/hurricane-prep-and-windstorm-code.md) - FBC wind zones, anchoring requirements, pre/post-storm procedures, FL Product Approval
+- [Condo and HOA Rules for HVAC](docs/condo-and-hoa-rules.md) - Chapter 718/720, architectural review, common restrictions, approval workflow
+
 ## Quick Reference
 
 | Topic | Key Fact |
@@ -73,7 +78,7 @@ For professional AC repair, installation, and maintenance in Miami-Dade, Broward
 
 ## Disclaimer
 
-This guide is for informational purposes only and does not constitute legal advice. Regulations change - always verify current requirements with your local building department and the [Florida DBPR](https://www.myfloridalicense.com). Last updated: April 2026.
+This guide is for informational purposes only and does not constitute legal advice. Regulations change - always verify current requirements with your local building department and the [Florida DBPR](https://www.myfloridalicense.com). Last updated: May 2026.
 
 ## License
 
