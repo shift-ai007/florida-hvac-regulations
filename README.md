@@ -33,6 +33,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Florida Building Code HVAC Requirements](docs/building-codes.md) - Mechanical code basics, SEER minimums, duct standards
 - [Energy Code Compliance](docs/energy-code.md) - Florida Energy Conservation Code, Manual J/S/D requirements
 - [Refrigerant Regulations](docs/refrigerant-regulations.md) - R-22 phaseout, R-410A transition, R-454B/R-32 future, EPA requirements
+- [A2L Refrigerant Transition (2026)](docs/a2l-refrigerant-transition.md) - New mildly flammable refrigerants, Florida code compliance, homeowner FAQ
 
 ### Insurance & Warranties
 
