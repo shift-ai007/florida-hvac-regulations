@@ -43,6 +43,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 ### Incentives & Heat Pumps
 
 - [Federal Tax Credits & Rebates (2026)](docs/federal-tax-credits.md) - IRA credits (25C), HEEHRA rebates, utility stacking, and how to claim
+- [Florida Utility Rebate Programs](docs/utility-rebate-programs.md) - FPL, TECO, Duke Energy, and local co-op rebates for HVAC upgrades with stacking strategies and common mistakes
 - [Heat Pump Regulations for Florida](docs/heat-pump-regulations.md) - Efficiency requirements, refrigerant transition, permits, and the AC vs heat pump decision
 
 ### Homeowner Reference
@@ -59,6 +60,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 
 - [Miami-Dade NOA (Notice of Acceptance)](docs/miami-dade-noa-requirements.md) - What needs NOA approval in Miami-Dade County, how to verify product approvals, and the cost of getting it wrong
 - [Florida Sales Tax on HVAC Services](docs/florida-hvac-sales-tax.md) - Which jobs are taxable vs capital improvements, county surtax rates, and what contractors and homeowners need to know
+- [HVAC Mold Remediation Licensing](docs/hvac-mold-remediation-licensing.md) - MRSR vs MRSA vs CAC license scope, what HVAC contractors can and cannot do regarding mold in ducts, and homeowner verification
 
 ## Quick Reference
 
