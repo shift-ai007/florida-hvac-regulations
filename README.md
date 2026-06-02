@@ -56,6 +56,10 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Hurricane Prep and Windstorm Code](docs/hurricane-prep-and-windstorm-code.md) - FBC wind zones, anchoring requirements, pre/post-storm procedures, FL Product Approval
 - [Condo and HOA Rules for HVAC](docs/condo-and-hoa-rules.md) - Chapter 718/720, architectural review, common restrictions, approval workflow
 
+### Insurance, Claims & Contracts
+- [HVAC Contract Disclosures](docs/hvac-contract-disclosures.md) - Florida law required contract elements, lien law notices, mold disclosures, workers' comp disclosures, and red flags to watch for before signing
+- [Insurance Claims for HVAC Systems](docs/insurance-claim-process.md) - How to navigate wind/hurricane, lightning, fire, and flood claims for HVAC equipment. Florida-specific protections, adjuster negotiations, and the AOB reform
+
 ### South Florida-Specific Regulations
 
 - [Miami-Dade NOA (Notice of Acceptance)](docs/miami-dade-noa-requirements.md) - What needs NOA approval in Miami-Dade County, how to verify product approvals, and the cost of getting it wrong
