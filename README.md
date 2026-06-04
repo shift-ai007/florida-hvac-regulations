@@ -50,6 +50,11 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 
 - [Homeowner Rights & Protections](docs/homeowner-rights.md) - Construction Lien Law, warranties, dispute resolution
 - [Questions to Ask Before Hiring](docs/hiring-checklist.md) - Red flags and verification steps
+- [Landlord & Tenant HVAC Responsibilities](docs/landlord-tenant-responsibilities.md) - Who pays for AC repairs and replacements in Florida rentals, the 7-day repair rule, hurricane damage liability, and practical guidance for both parties
+
+### Building Performance
+
+- [Duct Leakage Testing Requirements](docs/duct-leakage-testing-requirements.md) - Florida Energy Code duct testing requirements for new construction and retrofits, the testing process, common failure points, costs, and RECA requirements
 
 ### Hurricane Season & Community Rules
 
