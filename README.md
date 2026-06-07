@@ -61,6 +61,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Hurricane Prep and Windstorm Code](docs/hurricane-prep-and-windstorm-code.md) - FBC wind zones, anchoring requirements, pre/post-storm procedures, FL Product Approval
 - [Condo and HOA Rules for HVAC](docs/condo-and-hoa-rules.md) - Chapter 718/720, architectural review, common restrictions, approval workflow
 - [Noise Ordinances & Setback Requirements](docs/noise-ordinances-setbacks.md) - Florida county and municipal AC noise limits, property line setback requirements, sound abatement techniques, and what to do if you receive a noise complaint. Covers Miami-Dade, Broward, Palm Beach, and all major Florida cities.
+- [Standby Generator Requirements for HVAC](docs/standby-generator-requirements.md) - Florida code requirements for backup generators serving HVAC systems, sizing calculations, fuel sources, transfer switches, installation permits, and Miami-Dade/Broward enhanced requirements. Essential reading before hurricane season.
 
 ### Insurance, Claims & Contracts
 - [HVAC Contract Disclosures](docs/hvac-contract-disclosures.md) - Florida law required contract elements, lien law notices, mold disclosures, workers' comp disclosures, and red flags to watch for before signing
