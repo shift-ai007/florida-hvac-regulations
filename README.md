@@ -42,6 +42,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 
 ### Incentives & Heat Pumps
 
+- [Solar-Ready Requirements & Solar HVAC Pairing](docs/solar-ready-and-solar-hvac-pairing.md) - 2023 FBC solar-ready code for new construction, strategic solar + heat pump pairing, incentive stacking (ITC + 25C + HEEHRA), Florida interconnection and permitting, equipment selection guidance, and common mistakes.
 - [Federal Tax Credits & Rebates (2026)](docs/federal-tax-credits.md) - IRA credits (25C), HEEHRA rebates, utility stacking, and how to claim
 - [Florida Utility Rebate Programs](docs/utility-rebate-programs.md) - FPL, TECO, Duke Energy, and local co-op rebates for HVAC upgrades with stacking strategies and common mistakes
 - [Heat Pump Regulations for Florida](docs/heat-pump-regulations.md) - Efficiency requirements, refrigerant transition, permits, and the AC vs heat pump decision
