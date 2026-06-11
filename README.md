@@ -73,6 +73,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Miami-Dade NOA (Notice of Acceptance)](docs/miami-dade-noa-requirements.md) - What needs NOA approval in Miami-Dade County, how to verify product approvals, and the cost of getting it wrong
 - [Florida Sales Tax on HVAC Services](docs/florida-hvac-sales-tax.md) - Which jobs are taxable vs capital improvements, county surtax rates, and what contractors and homeowners need to know
 - [HVAC Mold Remediation Licensing](docs/hvac-mold-remediation-licensing.md) - MRSR vs MRSA vs CAC license scope, what HVAC contractors can and cannot do regarding mold in ducts, and homeowner verification
+- [Mold Remediation, Damage Restoration & HVAC Licensing](docs/mold-remediation-damage-restoration.md) - Navigating the regulatory overlap between HVAC, mold remediation (MRSR/MRSA), and general contracting after water damage. Covers real-world scenarios (burst drains, hurricane floods, moldy ducts), insurance claim compliance, and which tasks require which license.
 
 ## Quick Reference
 
