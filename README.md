@@ -53,6 +53,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Questions to Ask Before Hiring](docs/hiring-checklist.md) - Red flags and verification steps
 - [Construction Lien Law & Notice to Owner](docs/construction-lien-law-notice-to-owner.md) - Why paying your contractor in full may not protect you, what a Notice to Owner really means, the Contractor's Final Payment Affidavit, lien releases, the Notice of Commencement, and how hiring a [licensed AC contractor](https://ac-repair.today) prevents double-payment on equipment change-outs
 - [Landlord & Tenant HVAC Responsibilities](docs/landlord-tenant-responsibilities.md) - Who pays for AC repairs and replacements in Florida rentals, the 7-day repair rule, hurricane damage liability, and practical guidance for both parties
+- [Filing a Complaint Against an HVAC Contractor (DBPR)](docs/dbpr-contractor-complaints.md) - Your recourse when a contractor does shoddy work, abandons a job, or operates unlicensed: what DBPR can and can't do, the documentation to gather first, how to file online or by mail, the Unlicensed Activity process, the Homeowners' Construction Recovery Fund, and why starting with a [licensed Florida AC contractor](https://ac-repair.today/) avoids the process entirely
 
 ### Building Performance
 
