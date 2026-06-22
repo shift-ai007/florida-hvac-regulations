@@ -77,6 +77,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [HVAC Mold Remediation Licensing](docs/hvac-mold-remediation-licensing.md) - MRSR vs MRSA vs CAC license scope, what HVAC contractors can and cannot do regarding mold in ducts, and homeowner verification
 - [Mold Remediation, Damage Restoration & HVAC Licensing](docs/mold-remediation-damage-restoration.md) - Navigating the regulatory overlap between HVAC, mold remediation (MRSR/MRSA), and general contracting after water damage. Covers real-world scenarios (burst drains, hurricane floods, moldy ducts), insurance claim compliance, and which tasks require which license.
 - [AC Disposal & Refrigerant Recovery Rules](docs/ac-disposal-and-refrigerant-recovery.md) - What legally happens to your old system during a change-out: EPA Section 608 recovery requirements, who is allowed to recover refrigerant and remove equipment in Florida (CAC/CMC + 608), scrap-metal and component disposal, what a compliant change-out looks like, and why improper disposal signals an unlicensed [AC replacement](https://ac-repair.today/services/ac-replacement/) operator
+- [Asbestos & HVAC Work in Florida](docs/asbestos-hvac-regulations.md) - Where asbestos is found in older HVAC systems, EPA NESHAP requirements, Florida DEP and local air management rules (Miami-Dade DERM, Broward, Palm Beach), contractor licensing distinctions, OSHA requirements for HVAC workers, and what homeowners need to know before starting work on pre-1980 equipment
 
 ## Quick Reference
 
