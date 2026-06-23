@@ -67,6 +67,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Standby Generator Requirements for HVAC](docs/standby-generator-requirements.md) - Florida code requirements for backup generators serving HVAC systems, sizing calculations, fuel sources, transfer switches, installation permits, and Miami-Dade/Broward enhanced requirements. Essential reading before hurricane season.
 
 ### Insurance, Claims & Contracts
+- [Contractor Bonding & Insurance Requirements](docs/contractor-bonding-insurance.md) - Florida's minimum insurance requirements for HVAC contractors, surety bonding, the Homeowners' Construction Recovery Fund, recommended coverage levels for South Florida, how to verify a contractor's insurance before hiring, and red flags that signal an uninsured operator.
 - [HVAC Contract Disclosures](docs/hvac-contract-disclosures.md) - Florida law required contract elements, lien law notices, mold disclosures, workers' comp disclosures, and red flags to watch for before signing
 - [Insurance Claims for HVAC Systems](docs/insurance-claim-process.md) - How to navigate wind/hurricane, lightning, fire, and flood claims for HVAC equipment. Florida-specific protections, adjuster negotiations, and the AOB reform
 
