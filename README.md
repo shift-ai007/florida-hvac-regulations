@@ -27,6 +27,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [The Permit Process](docs/permit-process.md) - Application, fees, timeline, and what inspectors check
 - [Common Inspection Failures](docs/inspection-failures.md) - Top reasons HVAC installs fail inspection
 - [County Permit Fees (South FL)](docs/county-permit-fees.md) - Fee schedules for Miami-Dade, Broward, and Palm Beach
+- [HVAC Permit Violation Penalties](docs/hvac-permit-violation-penalties-florida.md) - The real cost of skipping permits: stop-work orders, doubled fees, insurance claim denials, DBPR fines, and license suspension for contractors
 
 ### Building Codes & Refrigerants
 
