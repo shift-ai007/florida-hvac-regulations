@@ -74,6 +74,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 
 ### South Florida-Specific Regulations
 
+- [HOA & Condo AC Replacement Rules](docs/hoa-condo-ac-replacement-guide.md) - How HOAs and condominium associations govern AC replacements in South Florida: approval processes, CC&R compliance, noise restrictions, flood zone elevation requirements, through-wall and water-cooled systems in high-rises, and the documentation needed to avoid a block or fine. Covers the step-by-step approval timeline and common pitfalls that delay installations by weeks.
 - [Miami-Dade NOA (Notice of Acceptance)](docs/miami-dade-noa-requirements.md) - What needs NOA approval in Miami-Dade County, how to verify product approvals, and the cost of getting it wrong
 - [Florida Sales Tax on HVAC Services](docs/florida-hvac-sales-tax.md) - Which jobs are taxable vs capital improvements, county surtax rates, and what contractors and homeowners need to know
 - [HVAC Mold Remediation Licensing](docs/hvac-mold-remediation-licensing.md) - MRSR vs MRSA vs CAC license scope, what HVAC contractors can and cannot do regarding mold in ducts, and homeowner verification
