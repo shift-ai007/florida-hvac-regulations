@@ -35,6 +35,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Energy Code Compliance](docs/energy-code.md) - Florida Energy Conservation Code, Manual J/S/D requirements
 - [Refrigerant Regulations](docs/refrigerant-regulations.md) - R-22 phaseout, R-410A transition, R-454B/R-32 future, EPA requirements
 - [A2L Refrigerant Transition (2026)](docs/a2l-refrigerant-transition.md) - New mildly flammable refrigerants, Florida code compliance, homeowner FAQ
+- [R-410A Phase-Down: Homeowner Impact Guide](docs/r410a-phase-down-homeowner-impact.md) - What the AIM Act production caps mean for South Florida homeowners: the phasedown timeline through 2029, R-454B vs R-32 as replacements, A2L safety classification explained, how rising refrigerant prices change the economics of leak repair vs system replacement, and what questions to ask a contractor before installing a new system.
 
 ### Insurance & Warranties
 
@@ -70,6 +71,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 ### Insurance, Claims & Contracts
 - [Contractor Bonding & Insurance Requirements](docs/contractor-bonding-insurance.md) - Florida's minimum insurance requirements for HVAC contractors, surety bonding, the Homeowners' Construction Recovery Fund, recommended coverage levels for South Florida, how to verify a contractor's insurance before hiring, and red flags that signal an uninsured operator.
 - [HVAC Contract Disclosures](docs/hvac-contract-disclosures.md) - Florida law required contract elements, lien law notices, mold disclosures, workers' comp disclosures, and red flags to watch for before signing
+- [Home Warranty vs Manufacturer Warranty Guide](docs/home-warranty-vs-manufacturer-warranty.md) - How home warranties and manufacturer warranties differ in Florida, what each covers and excludes, the manufacturer warranty registration trap that leaves 5-year coverage instead of 10-year, Florida coastal corrosion exclusions, the $1,500-2,500 per-repair cap on home warranties, and practical guidance for navigating claims when an AC system fails.
 - [Insurance Claims for HVAC Systems](docs/insurance-claim-process.md) - How to navigate wind/hurricane, lightning, fire, and flood claims for HVAC equipment. Florida-specific protections, adjuster negotiations, and the AOB reform
 
 ### South Florida-Specific Regulations
