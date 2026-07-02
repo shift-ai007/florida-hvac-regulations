@@ -86,6 +86,10 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [HVAC Permits & Transfer of Ownership](docs/hvac-permit-transfer-of-ownership.md) — What every Florida home seller and buyer should know: which HVAC work requires permits, why title companies and lenders now check permit history, how to search county permit databases for Miami-Dade/Broward/Palm Beach, the three ways to resolve unpermitted work (retroactive permit, certification letter, title waiver), and seller disclosure requirements under Florida Statute 475.278. Essential reading before listing a home where HVAC was replaced without permits.
 - [Hurricane Impact Windows & HVAC Requirements](docs/hurricane-impact-window-hvac-requirements.md) — What happens when new impact-rated windows turn your home airtight: insufficient combustion air for gas appliances, negative pressure that blocks exhaust venting, elevated humidity from natural air exchange dropping 80%, and the ASHRAE 62.2 mechanical ventilation requirements that kick in below 0.35 ACH. Covers direct-vent appliance retrofit, HRV/ERV sizing tables for South Florida homes, and county-specific variations (Miami-Dade NOA requirements, Broward mandatory HRV for substantial renovations).
 
+### Permits & Inspections (continued)
+
+- **[HVAC Permit Exemptions for Homeowners](docs/hvac-permit-exemptions-homeowner.md)** — A clear breakdown of what Florida Building Code actually exempts (like-for-like thermostat swaps, minor repairs, agricultural buildings, conditional emergency repairs) vs. common misconceptions that lead to unpermitted work. Covers the financial risks of skipping permits: doubled fees, insurance claim denials after system-related fires or floods, and Florida real estate disclosure requirements that can derail a home sale. Includes a quick-reference table for 14 common HVAC tasks and their permit status.
+
 ## Quick Reference
 
 | Topic | Key Fact |
