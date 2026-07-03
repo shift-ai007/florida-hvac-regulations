@@ -29,6 +29,10 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [County Permit Fees (South FL)](docs/county-permit-fees.md) - Fee schedules for Miami-Dade, Broward, and Palm Beach
 - [HVAC Permit Violation Penalties](docs/hvac-permit-violation-penalties-florida.md) - The real cost of skipping permits: stop-work orders, doubled fees, insurance claim denials, DBPR fines, and license suspension for contractors
 
+### Fire Safety & Penetrations
+
+- **[Fire-Rated Penetrations for HVAC Systems](docs/fire-rated-penetrations-hvac.md)** — What the Florida Building Code requires when ducts, refrigerant line-sets, thermostat wiring, and condensate drains pass through fire-rated walls, floors, and ceilings. Covers UL-classified firestop systems (wraps, collars, sealants, pillows), proper installation per ASTM E814, Miami-Dade HVHZ impact requirements, common inspection violations, and when permits are needed. Essential reading before any HVAC work that involves penetrating fire-rated assemblies. Hire a [licensed Florida HVAC contractor](https://ac-repair.today/) who understands firestop requirements.
+
 ### Building Codes & Refrigerants
 
 - [Florida Building Code HVAC Requirements](docs/building-codes.md) - Mechanical code basics, SEER minimums, duct standards
