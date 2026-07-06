@@ -4,6 +4,16 @@ A comprehensive reference for Florida HVAC licensing, permit requirements, build
 
 Florida's hot, humid climate means HVAC systems run year-round, making proper installation and maintenance critical. This guide covers the regulatory framework that governs HVAC work in the state.
 
+### Interactive Permit Fee Estimator
+
+Before diving into the regulations, estimate your permit fees for HVAC work in any South Florida county:
+
+```bash
+python3 tools/permit-fee-estimator.py
+```
+
+The [permit fee estimator](tools/permit-fee-estimator.py) calculates fees for AC replacements, new installations, duct modifications, gas furnaces, and heat pumps in Miami-Dade, Broward, and Palm Beach counties — including plan review fees, surcharges, optional expedited processing, and system-size variables.
+
 ## Why This Matters
 
 Hiring an unlicensed HVAC contractor in Florida can result in:
@@ -32,6 +42,10 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 ### Fire Safety & Penetrations
 
 - **[Fire-Rated Penetrations for HVAC Systems](docs/fire-rated-penetrations-hvac.md)** — What the Florida Building Code requires when ducts, refrigerant line-sets, thermostat wiring, and condensate drains pass through fire-rated walls, floors, and ceilings. Covers UL-classified firestop systems (wraps, collars, sealants, pillows), proper installation per ASTM E814, Miami-Dade HVHZ impact requirements, common inspection violations, and when permits are needed. Essential reading before any HVAC work that involves penetrating fire-rated assemblies. Hire a [licensed Florida HVAC contractor](https://ac-repair.today/) who understands firestop requirements.
+
+### Electrical Requirements
+
+- **[Electrical Disconnect & Branch Circuit Requirements](docs/electrical-disconnect-requirements.md)** — Code requirements for HVAC disconnects in Florida, including sizing per nameplate MCA and MOP, corrosion-resistant enclosures for coastal South Florida, Miami-Dade NOA wind-load compliance, hurricane hardening (breakaway wiring, impact-rated enclosures, emergency shutoff labels), heat pump disconnect considerations, and the most common electrical inspection failures in Miami-Dade, Broward, and Palm Beach. Essential pre-installation reading for homeowners and contractors.
 
 ### Building Codes & Refrigerants
 
