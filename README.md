@@ -107,6 +107,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 ### Permits & Inspections (continued)
 
 - **[HVAC Permit Exemptions for Homeowners](docs/hvac-permit-exemptions-homeowner.md)** — A clear breakdown of what Florida Building Code actually exempts (like-for-like thermostat swaps, minor repairs, agricultural buildings, conditional emergency repairs) vs. common misconceptions that lead to unpermitted work. Covers the financial risks of skipping permits: doubled fees, insurance claim denials after system-related fires or floods, and Florida real estate disclosure requirements that can derail a home sale. Includes a quick-reference table for 14 common HVAC tasks and their permit status.
+- **[HVAC Permit Inspection Checklist](docs/hvac-permit-inspection-checklist.md)** — A comprehensive walkthrough of what Florida building inspectors check during HVAC permit inspections for Miami-Dade, Broward, and Palm Beach. Covers the six inspection domains (equipment verification, electrical safety, refrigerant system, condensate drain, duct system, combustion air), when rough-in vs final inspections are required, common failure rates and how to prevent them, what to do after a pass or fail, and how to select a contractor who reliably passes inspections. Essential reading for any homeowner pulling an HVAC permit in South Florida. Hire a licensed [HVAC installation contractor](https://ac-repair.today/services/ac-installation/) who knows local inspection requirements.
 
 ## Quick Reference
 
