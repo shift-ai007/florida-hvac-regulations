@@ -66,6 +66,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 - [Federal Tax Credits & Rebates (2026)](docs/federal-tax-credits.md) - IRA credits (25C), HEEHRA rebates, utility stacking, and how to claim
 - [Florida Utility Rebate Programs](docs/utility-rebate-programs.md) - FPL, TECO, Duke Energy, and local co-op rebates for HVAC upgrades with stacking strategies and common mistakes
 - [Heat Pump Regulations for Florida](docs/heat-pump-regulations.md) - Efficiency requirements, refrigerant transition, permits, and the AC vs heat pump decision
+- [Heat Pump Water Heater Regulations & Incentives](docs/heat-pump-water-heater-florida-regulations.md) — Florida building code requirements for HPWH installation: location and clearance, condensate drainage, flood zone elevation rules, permitting process, and available federal tax credits and utility rebates
 
 ### Homeowner Reference
 
