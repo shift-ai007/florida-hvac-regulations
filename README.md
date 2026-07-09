@@ -115,6 +115,12 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 
 - **[Florida Building Code Evolution: Hurricane-Driven HVAC Requirements](docs/hurricane-building-code-evolution-florida.md)** — How every major storm since Hurricane Andrew (1992) shaped Florida's HVAC requirements: wind anchorage for condensers, impact enclosures in Miami-Dade HVHZ, rooftop equipment curbs after Wilma, flood elevation requirements after Irma, and what current 2023 FBC code requires for new installations. Covers pre-Andrew vs modern requirements, insurance discount opportunities through wind-mitigation inspections, and the practical cost impact of code compliance for homeowners. Essential reading before replacing an AC system in any Florida wind or flood zone. For professional installation that meets current code, hire a licensed [Florida HVAC contractor](https://ac-repair.today/services/ac-installation/).
 
+### ADU & Garage Conversion HVAC
+
+Florida's 2023 SB 102 legalized accessory dwelling units statewide, triggering a boom in garage-to-living-space conversions and backyard cottage construction. These unconditioned-to-conditioned conversions present unique HVAC regulatory challenges that standard residential rules don't fully cover.
+
+- **[ADU & Garage Conversion HVAC Requirements](docs/adus-and-garage-conversion-hvac-requirements.md)** — Complete coverage of Florida Building Code requirements for ADU HVAC systems: Manual J load calculation sizing for small spaces (the #1 mistake — oversizing by 2× in 400 sq ft conversions), minimum SEER2 requirements for 2026, ASHRAE 62.2 mechanical ventilation compliance, condensate disposal rules (garage floor drains are not allowed), electrical requirements and subpanel capacity for converted garages, the three HVAC system options (ductless mini-split, small ducted, high-velocity mini-duct) with cost comparisons, insulation requirements for garage conversions, fire separation and make-up air requirements for gas appliances, and the permitting process in Miami-Dade, Broward, and Palm Beach. Essential reading for any homeowner converting a garage or building an ADU in South Florida.
+
 ## Quick Reference
 
 | Topic | Key Fact |
