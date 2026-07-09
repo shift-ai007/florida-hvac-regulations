@@ -14,6 +14,17 @@ python3 tools/permit-fee-estimator.py
 
 The [permit fee estimator](tools/permit-fee-estimator.py) calculates fees for AC replacements, new installations, duct modifications, gas furnaces, and heat pumps in Miami-Dade, Broward, and Palm Beach counties — including plan review fees, surcharges, optional expedited processing, and system-size variables.
 
+### HVAC Rebate & Incentive Finder
+
+Estimate available rebates, tax credits, and manufacturer incentives for your HVAC upgrade:
+
+```bash
+python3 tools/rebate-finder.py          # Interactive mode
+python3 tools/rebate-finder.py --quick   # Quick estimate
+```
+
+The [rebate finder](tools/rebate-finder.py) covers federal tax credits (up to $2,000 for heat pumps under the Inflation Reduction Act), utility rebates from FPL, Duke Energy, and TECO, plus manufacturer rebate estimates. Enter your equipment type and system cost to get a personalized incentive estimate.
+
 ## Why This Matters
 
 Hiring an unlicensed HVAC contractor in Florida can result in:
@@ -71,6 +82,7 @@ Hiring an unlicensed HVAC contractor in Florida can result in:
 ### Homeowner Reference
 
 - [Homeowner Rights & Protections](docs/homeowner-rights.md) - Construction Lien Law, warranties, dispute resolution
+- [HVAC Contractor Scams & Red Flags](docs/hvac-contractor-scams-red-flags.md) - Common HVAC scams targeting Florida homeowners: the free inspection trap, bait-and-switch repairs, unlicensed operators, payment scams, after-storm fraud, and how to verify a legitimate contractor. Includes a fair price reference table and 5-step verification checklist.
 - [Questions to Ask Before Hiring](docs/hiring-checklist.md) - Red flags and verification steps
 - [Construction Lien Law & Notice to Owner](docs/construction-lien-law-notice-to-owner.md) - Why paying your contractor in full may not protect you, what a Notice to Owner really means, the Contractor's Final Payment Affidavit, lien releases, the Notice of Commencement, and how hiring a [licensed AC contractor](https://ac-repair.today) prevents double-payment on equipment change-outs
 - [Landlord & Tenant HVAC Responsibilities](docs/landlord-tenant-responsibilities.md) - Who pays for AC repairs and replacements in Florida rentals, the 7-day repair rule, hurricane damage liability, and practical guidance for both parties
